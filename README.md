@@ -87,6 +87,9 @@ This project was tracked using Jira, where tasks were divided into:
 * Model building
 * Evaluation
 
+A brief walkthrough of the workflow is available here:
+[LinkedIn Video Link]
+
 ---
 
 ## Future Improvements
