@@ -1,8 +1,9 @@
 # Resume Screening using Machine Learning
+A machine learning-based system to automatically classify resumes into job categories using NLP techniques.
 
 ## Project Demo
 
-A short walkthrough of the project is available here:
+A short walkthrough of the project is available here: 
 
 ## Overview
 This project focuses on building a machine learning model to automatically classify resumes into different job categories. The goal is to simulate a real-world resume screening system using natural language processing (NLP) techniques.
@@ -19,20 +20,6 @@ Due to file size limitations, the dataset is not included in this repository.
 
 ## Problem Statement
 Manual resume screening is time-consuming and inefficient. This project aims to automate the classification of resumes into predefined categories using machine learning techniques.
-
----
-
-## Dataset
-The dataset contains resumes categorized into multiple job domains such as:
-- Information Technology
-- HR
-- Finance
-- Engineering
-- Sales
-- Healthcare
-- And others
-
-Each resume is provided as raw text and labeled with a category.
 
 ---
 
@@ -126,6 +113,7 @@ The model performs well on categories with sufficient data and distinct keywords
 ---
 
 ## Project Structure
+
 Resume-Screening-ML/
 │
 ├── Resume_Screening_ML.ipynb
@@ -139,10 +127,12 @@ Resume-Screening-ML/
 
 ## How to Run
 
-1. Train the model using the notebook
-2. Run prediction script:
+1. Download the dataset from the link above  
+2. Place the dataset inside the `data/` folder  
+3. Open and run `Resume_Screening_ML.ipynb` to train the model  
+4. Run the prediction script: predict.py
+5. Enter resume text to get predicted category
 
-3. Enter resume text to get predicted category
 
 ---
 
