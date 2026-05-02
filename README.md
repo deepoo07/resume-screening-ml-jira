@@ -6,9 +6,11 @@ A machine learning-based system to automatically classify resumes into job categ
 A short walkthrough of the project is available here: 
 
 ## Overview
-This project focuses on building a machine learning model to automatically classify resumes into different job categories. The goal is to simulate a real-world resume screening system using natural language processing (NLP) techniques.
+This project focuses on building a machine learning model to automatically classify resumes into different job categories. The goal is to simulate a real-world workflow using natural language processing (NLP) techniques.
 
-The project includes end-to-end steps such as data preprocessing, feature extraction, model training, evaluation, and deployment using a reusable prediction script.
+The project includes end-to-end steps such as data preprocessing, feature extraction, model training, evaluation, and deployment using a reusable prediction script. 
+
+The entire project was managed and tracked using Jira to simulate a structured project management workflow, including task breakdown, progress tracking, and milestone management.
 
 ## Dataset
 
@@ -51,6 +53,18 @@ Manual resume screening is time-consuming and inefficient. This project aims to 
 - Saved trained model using pickle
 - Built a reusable prediction script to classify new resume text
 - Added confidence score to assess prediction reliability
+
+---
+
+## Project Management (Jira)
+
+This project was tracked and managed using Jira to simulate a real-world project environment.
+
+- Created tasks for each phase of the project (data preprocessing, EDA, modeling, evaluation)
+- Used task tracking to monitor progress and workflow
+- Structured the project into manageable stages similar to industry practices
+
+Jira Board: (https://deepoonekar07.atlassian.net/jira/software/projects/RSM/list?jql=project%20%3D%20RSM%20ORDER%20BY%20cf%5B10019%5D%20ASC)
 
 ---
 
