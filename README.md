@@ -9,6 +9,12 @@ This project focuses on building a machine learning model to automatically class
 
 The project includes end-to-end steps such as data preprocessing, feature extraction, model training, evaluation, and deployment using a reusable prediction script.
 
+## Dataset
+
+The dataset used for this project is available here: (https://drive.google.com/file/d/102EOmf_RfKS-A9JJX9xKvQ9lvQQeyRNo/view?usp=sharing)
+
+Due to file size limitations, the dataset is not included in this repository.
+
 ---
 
 ## Problem Statement
